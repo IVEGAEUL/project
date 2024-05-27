@@ -424,7 +424,7 @@ int main() {
 
         turn++;
     }
-    //¾Æ¿ôÆ®
+    //¾Æ¿ôÆ®·Î
     if (zombie == citizen + 1) {
         printf("GAME OVER! Citizen dead...\n");
     }
